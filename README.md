@@ -1,5 +1,3 @@
-# My academic CV
-
 This repo records my academic CV in Markdown format. See [index.md](index.md).
 
 ## Credit
