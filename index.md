@@ -145,16 +145,19 @@ Guilhem Biossé, first-year Msc Bioinformatics, Université Montpellier, France
 ### Successes
 
 `2023`
-Best Talk award at ISMB/ECCB 2023 Conference - Evolutionary and Comparative Genomics Section - $200
+Best Talk award at ISMB/ECCB 2023 Conference - Evolutionary and Comparative Genomics Section ($200)
 
 `2022`
-Best Talk award at JOBIM Conference - 400€
+Best Talk award at JOBIM Conference (400€)
+
+`2018-2022`
+Postgraduate fellowship - full tuition at University of Cambridge
 
 `2018`
 Best student in Msc Bioinformatics - University of Lyon 1
 
 `2016`
-Ashworth Medal for best student in Evolutionary Biology - University of Edinburgh - £400
+Ashworth Medal for best student in Evolutionary Biology - University of Edinburgh (£400)
 
 `2012-2016`
 Undergraduate fellowship - full tuition at University of Edinburgh
