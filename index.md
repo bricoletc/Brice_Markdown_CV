@@ -165,7 +165,7 @@ Undergraduate fellowship - full tuition at University of Edinburgh
 EMBO Postdoc Fellowship - Rejected after oral interview
 
 `2024`
-Marie Skłodowska-Curie Actions Postdoc Fellowship - Rejected after grade of 91.8%
+Marie Skłodowska-Curie Actions Postdoc Fellowship - Rejected after graded written report (grade: 91.8%)
 
 
 
