@@ -1,4 +1,6 @@
-This repo records my academic CV in Markdown format. See [index.md](index.md).
+This repo records my academic CV in Markdown format. Published at https://bricoletc.github.io/Brice_Markdown_CV/.
+
+For the Markdown source, see [index.md](index.md).
 
 ## Credit
 
