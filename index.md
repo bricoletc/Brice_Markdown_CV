@@ -64,10 +64,6 @@ TODO
 [Team Bétermier](https://www.i2bc.paris-saclay.fr/equipe-programmed-genome-rearrangements/) - I2BC, Paris, France;
 [Team Blaxter](https://www.sanger.ac.uk/group/blaxter-group/) - Wellcome Sanger Institute, Cambridge, UK
 
-`2022`
-[Team Berthelot](https://research.pasteur.fr/en/team/comparative-functional-genomics/) - Pasteur Institute, Paris, France;
-[Team Peterlongo](https://team.inria.fr/genscale/) - GenScale, Rennes, France
-
 
 ## Education
 
