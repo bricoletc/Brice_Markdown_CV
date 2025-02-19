@@ -21,11 +21,9 @@ After training in biology and bioinformatics [...]
 
 ### Research interests
 
-* Genome Evolution
 * Evolution of cellular processes
-* Genome biology
+* Genome biology and evolution
 * Host-pathogen interactions
-
 
 ## Scientific Output
 
@@ -35,9 +33,15 @@ Please see my [google scholar](https://scholar.google.com/citations?user=4KXvLoI
 
 ### Software
 
-TODO
+* [delfies](https://github.com/bricoletc/delfies): Detection of double-strand breaks followed by neo-telomered addition
+* [Gramtools](https://github.com/iqbal-lab-org/gramtools): Genotyping highly variable loci across populations using genome graphs
+* [Snakefmt](https://github.com/snakemake/snakefmt): The formatter for Snakemake files
 
 ### Conferences
+
+`2025`
+[ESEB 2025](https://eseb2025.com/) (Invited Speaker) - Barcelona, Spain
+[ALPHY 2025](https://alphy-aiem-2025.sciencesconf.org) - Lyon, France
 
 `2024`
 [Ver Midi XXV](https://vermidi25.sciencesconf.org/) - Lyon, France;
@@ -139,7 +143,8 @@ Guilhem Biossé, first-year Msc Bioinformatics, Université Montpellier, France
 
 ### Outreach
 
-TODO
+`2025`
+[Déclics 2025](https://www.cerclefser.org/en/the-outreach-articles/declics/) - dialogues between researchers and high-school students
 
 ## Awards
 
