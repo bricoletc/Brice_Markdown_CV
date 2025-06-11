@@ -17,31 +17,30 @@ Welcome! I am currently a post-doctoral researcher at the Laboratory of Biology 
 
 ### Mini-bio
 
-After training in biology (Bsc) and bioinformatics (Msc), I did a PhD in bioinformatics at EMBL-EBI and University of Cambridge, UK, 
-on developing novel approaches to genotype microbial pathogens, with a focus on antibiotic resistance genes in *M. tuberculosis* and 
-cell-surface antigens in *P. falciparum*.
+After training in biology (Bsc) and bioinformatics (Msc), I did a PhD in
+bioinformatics in the UK, developing novel approaches to genotype microbial
+pathogens, with a focus on antibiotic resistance genes in [*M. tuberculosis*](https://doi.org/10.1016/S2666-5247(21)00301-3) and
+[cell-surface antigens in *P. falciparum*](https://doi.org/10.1371/journal.pbio.3002507).
 
-I then moved back to Lyon for a postdoc where I have been working on the evolution of a neo-Y chromosome and its ties 
-with the emergence of a [strange mode of reproduction](https://doi.org/10.1126/science.aau0099) in nematodes, and of 
-[Programmed DNA Elimination during early embryogenesis](https:/doi.org/10.1016/j.cub.2023.07.058), also in nematodes.
+I then moved back to Lyon for a postdoc where I have been working on the
+evolution of sex chromosomes and ties with the emergence of a [strange
+mode of reproduction](https://doi.org/10.1126/science.aau0099) in nematodes,
+and the evolution of [Programmed DNA Elimination during early
+embryogenesis](https:/doi.org/10.1016/j.cub.2023.07.058), also in nematodes.
 
 ### Research interests
 
-* Evolution of cellular processes
-* Evolution of reproductive systems
-* Evolution of host-pathogen interactions
+Evolution of cellular processes; Evolution of reproductive systems; Evolution of host-pathogen interactions
 
 ## Scientific Output
 
 ### Publications
 
-Please see my [google scholar](https://scholar.google.com/citations?user=4KXvLoIAAAAJ&hl=fr&oi=ao) page for the complete and up-to-date list.
+Please see my <span style="color:darkblue">[google scholar](https://scholar.google.com/citations?user=4KXvLoIAAAAJ&hl=fr&oi=ao) </span> page for the complete and up-to-date list.
 
 ### Software
 
-* [delfies](https://github.com/bricoletc/delfies): Detection of double-strand breaks followed by neo-telomered addition
-* [Gramtools](https://github.com/iqbal-lab-org/gramtools): Genotyping highly variable loci across populations using genome graphs
-* [Snakefmt](https://github.com/snakemake/snakefmt): The formatter for Snakemake files
+[delfies](https://github.com/bricoletc/delfies): Detection of double-strand breaks followed by neo-telomered addition; [Gramtools](https://github.com/iqbal-lab-org/gramtools): Genotyping highly variable loci across populations using genome graphs; [Snakefmt](https://github.com/snakemake/snakefmt): The formatter for Snakemake files
 
 ### Conferences
 
@@ -95,20 +94,24 @@ Bsc Biology (Honours Evolutionary Biology) - University Of Edinburgh, UK.
 
 
 `2023-, ENS de Lyon`
-_UE Comparative Genomics_ and [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS), for second-year Masters students at ENS de Lyon, France
+_[UE Advanced Genomics](https://biologie.ens-lyon.fr/masterbiosciences/presentation-ue/m2-ue-europe/ue-comparative-genomics)_ and [_UE Practicals in next generation sequencing_](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS), for second-year Masters students at ENS de Lyon, France
 
 `2019-2022, EMBL-EBI`
-_Using Workflow Management Systems - Snakemake_ and _Introduction to High-Performance Computing_ for incoming PhD students at EMBL-EBI, UK.
-[_Why and how to develop open-source software_](https://www.ebi.ac.uk/training/events/open-access-why-build-open-source-software-and-how-do-it-successfully/), Online Webinar available to all for EMBL-EBI, UK.
+_Using Workflow Management Systems (Snakemake)_ and _Introduction to High-Performance Computing_ for incoming PhD students at EMBL-EBI, UK.
+[_Why and how to develop open-source software_](https://www.ebi.ac.uk/training/events/open-access-why-build-open-source-software-and-how-do-it-successfully/), Online Webinar for all.
 
 
 ### Reviewing
 
-`2022-`
-Microbial Genomics; Bioinformatics
+`2025-`
+Genome Biology and Evolution
 
 `2023-`
 Genome Biology; Bioinformatics Advances; Journal Of Open Source Software
+
+`2022-`
+Microbial Genomics; Bioinformatics
+
 
 ### Communities
 
@@ -119,7 +122,7 @@ Chair & Organiser of a monthly Seminar Series on _Molecular Evolution_ at ENS de
 Elected Board member on the Scientific Council of the LBMC Laboratory - as representative for postdocs
 
 `2023-`
-Jury member for Masters [Biosciences](https://biologie.ens-lyon.fr/masterbiosciences), ENS de Lyon; Masters [Cellular and Molecular Biology (BMC)](http://master-bmc.univ-lyon1.fr/); Masters [Bioinformatics](https://www.bioinfo-lyon.fr/), University of Lyon 1
+Jury member: Masters [Biosciences](https://biologie.ens-lyon.fr/masterbiosciences), ENS de Lyon; Masters [Cellular and Molecular Biology (BMC)](http://master-bmc.univ-lyon1.fr/); Masters [Bioinformatics](https://www.bioinfo-lyon.fr/), University of Lyon 1
 
 `2020`
 Organiser of the 2020 EMBL-EBI/Sanger/Cambridge University eSCAMPS Conference
