@@ -3,7 +3,7 @@ layout: cv
 title: Brice Letcher - CV
 ---
 # Brice Letcher
-Researcher in Evolutionary and Computational Biology
+Researcher in Evolutionary Biology
 
 
 <div id="webaddress">
